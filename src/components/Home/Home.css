@@ -1,0 +1,21 @@
+.home-info h3{
+    font-size: 68px;
+    color: #fff;
+    font-weight: 900;
+    display: inline-block;
+    padding: 10px;
+    background-color: blueviolet;
+}
+
+.home-info p{
+    font-size: 24px;
+    font-weight: 600;
+    color: #fff;
+}
+.populer-courses{
+    padding-top: 40px;
+    text-align: center;
+}
+.find-more{
+    text-decoration: none;
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "id":"INS-1",
+        "image":"https://randomuser.me/api/portraits/women/22.jpg",
+        "name":"Mrs Stella Harris",
+        "course":"Business English",
+        "email":"stella.harris@example.com"
+    },
+    {
+        "id":"INS-2",
+        "image":"https://randomuser.me/api/portraits/women/94.jpg",
+        "name":"Miss Sofia Morris",
+        "course":"Social Computing",
+        "email":"sofia.morris@example.com"
+    },
+    {
+        "id":"INS-3",
+        "image":"https://randomuser.me/api/portraits/men/27.jpg",
+        "name":"Mrs Jeppe Petersen",
+        "course":"Basic Marketing",
+        "email":"stella.harris@example.com"
+    },
+    {
+        "id":"INS-4",
+        "image":"https://randomuser.me/api/portraits/men/46.jpg",
+        "name":"Mr Jacob Johansen",
+        "course":"Android Dev",
+        "email":"jacob.johansen@example.com"
+    },
+    {
+        "id":"INS-5",
+        "image":"https://randomuser.me/api/portraits/men/17.jpg",
+        "name":"Mr Bertram Jensen",
+        "course":"Web Designing",
+        "email":"bertram.jensen@example.com"
+    },
+    {
+        "id":"INS-6",
+        "image":"https://randomuser.me/api/portraits/women/88.jpg",
+        "name":"Miss Amanda ",
+        "course":"Academic English",
+        "email":"amanda.tucker@example.com"
+    },
+    {
+        "id":"INS-7",
+        "image":"https://randomuser.me/api/portraits/men/28.jpg",
+        "name":"Monsieur Franck ",
+        "course":" Psychology",
+        "email":"franck.barbier@example.com"
+    },
+    {
+        "id":"INS-8",
+        "image":"https://randomuser.me/api/portraits/men/99.jpg",
+        "name":"Miss Johanne ",
+        "course":"Financial ",
+        "email":"stella.harris@example.com"
+    }
+]

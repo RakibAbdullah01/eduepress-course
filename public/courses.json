@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "key":"A1",
+        "image":"https://i.ibb.co/5hr0PNs/course-1.jpg",
+        "name":"Business English",
+        "duration":"3 Weeks",
+        "mentor":"Mrs Stella Harris",
+        "reviewRate":4.5,
+        "price":"$120"
+    },
+    {
+        "id":2,
+        "key":"A2",
+        "image":"https://i.ibb.co/KLWcLcZ/course-2.jpg",
+        "name":"Social Computing",
+        "duration":"2 Weeks",
+        "mentor":"Miss Sofia Morris",
+        "reviewRate":3.9,
+        "price":"$80"
+    },
+    {
+        "id":3,
+        "key":"B2",
+        "image":"https://i.ibb.co/DLDPh38/course-3.jpg",
+        "name":"Learn Spanish",
+        "duration":"4 Weeks",
+        "mentor":"Mr Jacob Johansen",
+        "reviewRate":4.5,
+        "price":"$150"
+    },
+    {
+        "id":4,
+        "key":"B3",
+        "image":"https://i.ibb.co/SfHwr1s/course-4.jpg",
+        "name":"Basic Marketing",
+        "duration":"1 Weeks",
+        "mentor":"Mr Bertram Jensen",
+        "reviewRate":4.8,
+        "price":"$160"
+    },
+    {
+        "id":5,
+        "key":"B4",
+        "image":"https://i.ibb.co/m8C6MqY/course-5.jpg",
+        "name":"Android Developer",
+        "duration":"3 Weeks",
+        "mentor":"Miss Amanda Tucker",
+        "reviewRate":3.5,
+        "price":"$150"
+    },
+    {
+        "id":6,
+        "key":"C1",
+        "image":"https://i.ibb.co/g43WQL3/course-6.jpg",
+        "name":"Web Designing",
+        "duration":"3.5 Weeks",
+        "mentor":"Monsieur Franck Barbier",
+        "reviewRate":4.1,
+        "price":"$90"
+    },
+    {
+        "id":7,
+        "key":"C2",
+        "image":"https://i.ibb.co/QQ2pbnV/course-7.jpg",
+        "name":"Financial Modeling",
+        "duration":"2.5 Weeks",
+        "mentor":"Miss Johanne Thomsen",
+        "reviewRate":4.9,
+        "price":"$130"
+    },
+    {
+        "id":8,
+        "key":"D1",
+        "image":"https://i.ibb.co/GdF05sq/course-8.jpg",
+        "name":"Academic English",
+        "duration":"4 Weeks",
+        "mentor":"Mrs Stella Harris",
+        "reviewRate":3.5,
+        "price":"$110"
+    }
+]

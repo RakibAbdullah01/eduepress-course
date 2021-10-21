@@ -1,0 +1,32 @@
+.footer{
+    background-color: blueviolet;
+    color: #fff;
+    text-align: center;
+    font-size: 14px;
+    width: 100vw;
+    box-sizing: border-box;
+    padding: 2%;
+    overflow-x: hidden;
+}
+.details{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.details img{
+    width: 300px;
+}
+
+.social-link{
+    list-style: none;
+    display: flex;
+}
+.social-link li{
+    padding-right: 10%;
+}
+.about{
+    text-align: left;
+}
+.links li{
+    color: #fff;
+}
